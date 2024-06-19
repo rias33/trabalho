@@ -1,6 +1,5 @@
 
 Alunos:
-Guilherme Oliveira dos Santos - ADS
-Rafael Garcia - ADS
-João Victor Reis - ADS
+Samyra Elias Santo - ADS
+
 
